@@ -1,4 +1,4 @@
-# Data_Cleannig_app_usingPython
+# Data_Cleanning_app_usingPython
 
 🧹 CSV Data Cleaner & Visualization Tool (Python + Tkinter)
 
